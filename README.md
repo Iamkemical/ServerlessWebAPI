@@ -1,2 +1,2 @@
 # ServerlessWebAPI
-An AWS Severless Web API built using Lambda.
+An AWS Serverless Web API built using Lambda.
